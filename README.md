@@ -44,7 +44,6 @@ Hi, I'm Anthony Luzuriaga!
 💻 Soy un desarrollador backend autodidacta y también desarrollador en Machine Learning.
 📚 Tengo una ingenieria en Ciencias de la Computación por la Universidad Nacional de Loja.
 📝 Tengo un gran interés en Inteligenica artificial especificamente en aprendizaje profundo y ia generativa.
-🔭 Trabajo en Deep Learning y Machine Learning.
 🌱 Estoy aprendiendo sobre Visión por Computador, Detección de patrones, Matlab,y temas relacionados con Machine Learning.
 🌟 Lenguajes principales: Python, Django, Java.
 🚩 Me interesa el desarrollo y despliegue en  proyecto de robotocia y monitoreo o conservación del ambiente con machine learning.
@@ -105,19 +104,11 @@ Hi, I'm Anthony Luzuriaga!
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-
-
-### 🗄️ Other
-
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"></a>
-	<a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+	<a href="https://github.com/Bouaskaoun"><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"></a>
 	<a href="https://github.com/Bouaskaoun"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
 </p>
 
