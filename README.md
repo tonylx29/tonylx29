@@ -28,7 +28,7 @@ Hi, I'm Anthony Luzuriaga!
 📝 Tengo un gran interés en Inteligenica artificial especificamente en aprendizaje profundo y ia generativa.
 🌱 Estoy aprendiendo sobre Visión por Computador, Detección de patrones, Matlab,y temas relacionados con Machine Learning.
 🌟 Lenguajes principales: Python, Django, Java.
-🚩 Me interesa el desarrollo y despliegue en  proyecto de robotocia y monitoreo o conservación del ambiente con machine learning.
+🚩 Me interesa el desarrollo y despliegue en  proyecto de robótica y monitoreo o conservación del ambiente con machine learning.
 🤔 Actualmente estoy abierto a: una pasantía o una nueva oportunidad laboral, este es <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MI CURRÍCULUM.</a> ✅
 </pre>
 <hr>
