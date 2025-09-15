@@ -26,9 +26,9 @@ Hi, I'm Anthony Luzuriaga!
 
 <pre>
 
-💻 Soy un desarrollador backend autodidacta y también desarrollador en Machine Learning.  
+💻 Soy un desarrollador backend  también desarrollador en Machine Learning.  
 📚 Tengo una ingeniería en Ciencias de la Computación por la Universidad Nacional de Loja.  
-📝 Tengo un gran interés en Inteligencia Artificial, específicamente en aprendizaje profundo e IA generativa.  
+📝 Tengo un gran interés en Inteligencia Artificial, específicamente en aprendizaje profundo y róbotica. 
 🌱 Estoy aprendiendo sobre Visión por Computador, Detección de patrones, Matlab y temas relacionados con Machine Learning.  
 🌟 Lenguajes principales: Python, Django, Java.  
 🚩 Me interesa el desarrollo y despliegue en proyectos de robótica y monitoreo/conservación del ambiente con machine learning.  
